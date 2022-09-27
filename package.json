@@ -1,0 +1,20 @@
+{
+  "name": "musicfestivaldata",
+  "version": "1.0.0",
+  "description": "APIAutomation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nischith Shivananda",
+  "license": "ISC",
+  "devDependencies": {
+    "async": "^3.2.4",
+    "chai": "^4.3.6",
+    "request": "^2.88.2",
+    "should": "^13.2.3"
+  },
+  "dependencies": {
+    "simple-rate-limiter": "^0.2.3"
+  }
+}
